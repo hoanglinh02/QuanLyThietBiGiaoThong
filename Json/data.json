@@ -1,0 +1,80 @@
+﻿{
+  "msg": "",
+  "data": [
+    {
+      "id": 1,
+      "TenThuoc": "Thuốc 1",
+      "Gia": "100000"
+    },
+    {
+      "id": 2,
+      "TenThuoc": "Thuốc 2",
+      "Gia": "102000"
+    },
+    {
+      "id": 2,
+      "TenThuoc": "Thuốc 3",
+      "Gia": "102300"
+    },
+    {
+      "id": 3,
+      "TenThuoc": "Thuốc 4",
+      "Gia": "1000410"
+    },
+    {
+      "id": 4,
+      "TenThuoc": "Thuốc 5",
+      "Gia": "1314111"
+    },
+    {
+      "id": 5,
+      "TenThuoc": "Thuốc 6",
+      "Gia": "10410000"
+    },
+    {
+      "id": 6,
+      "TenThuoc": "Thuốc 7",
+      "Gia": "31131"
+    },
+    {
+      "id": 7,
+      "TenThuoc": "Thuốc 8",
+      "Gia": "100031200"
+    },
+    {
+      "id": 8,
+      "TenThuoc": "Thuốc 9",
+      "Gia": "100014100"
+    },
+    {
+      "id": 9,
+      "TenThuoc": "Thuốc 10",
+      "Gia": "10013000"
+    },
+    {
+      "id": 10,
+      "TenThuoc": "Thuốc 11",
+      "Gia": "10002400"
+    },
+    {
+      "id": 11,
+      "TenThuoc": "Thuốc 12",
+      "Gia": "100000"
+    },
+    {
+      "id": 12,
+      "TenThuoc": "Thuốc 13",
+      "Gia": "10041000"
+    },
+    {
+      "id": 13,
+      "TenThuoc": "Thuốc 14",
+      "Gia": "1003000"
+    },
+    {
+      "id": 14,
+      "TenThuoc": "Thuốc 15",
+      "Gia": "1010000"
+    }
+  ]
+}
